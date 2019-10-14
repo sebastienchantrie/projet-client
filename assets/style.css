@@ -2,6 +2,9 @@
 
 @media screen and (max-width: 640px)
 {
+    .option-input:checked::before {
+        color:white;
+    }
     html {
         overflow-x: hidden !important;
         overflow-y: hidden !important;
@@ -484,7 +487,6 @@ margin-left: 0;
     font-size: 26.66667px;
     text-align: center;
     line-height: 40px;
-    color:white;
 }
 .option-input.radio {
     border-radius: 50%;
