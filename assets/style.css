@@ -1,6 +1,6 @@
 /* Responsive */
 
-@media screen and (max-width: 720px)
+@media screen and (max-width: 640px)
 {
     html {
         overflow-x: hidden !important;
@@ -39,19 +39,19 @@
     }
     .secondsection {
         height:350px !important;
-        top: -32em !important;
+        top: -30em !important;
     }
     .threesection {
         height:350px !important;
-        top: -64.4em !important
+        top: -59em !important
     }
     .forsection {
         height:350px !important;
-        top: -97em !important;
+        top: -88em !important;
     }
     .fivesection {
         height:350px !important;
-        top: -128.5em !important
+        top: -116.5em !important
     }
     .btnnav2 {
         margin-left: 20% !important;
@@ -69,16 +69,16 @@
         margin-left: 0 !important;
     }
     .infosection2 {
-        top: -32em !important;
+        top: -30em !important;
     }
     .infosection3 {
-        top: -64.4em!important;
+        top: -59em!important;
     }
     .infosection4 {
-        top: -97em !important;
+        top: -88em !important;
     }
     .infosection5 {
-        top: -128.5em !important
+        top: -116.5em !important
     }
 }
 
