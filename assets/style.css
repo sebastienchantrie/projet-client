@@ -1,6 +1,6 @@
 /* Responsive */
 
-@media screen and (max-width: 720px)
+@media screen and (max-width: 480px)
 {
     .logoheader {
         max-width: 100%;
@@ -31,22 +31,22 @@
         margin-left:70% !important;
     }
     .firstsection {
-        height:400px !important;
+        height:370px !important;
     }
     .secondsection {
-        height:400px !important;
+        height:370px !important;
         top: -32em !important;
     }
     .threesection {
-        height:400px !important;
+        height:370px !important;
         top: -64.4em !important
     }
     .forsection {
-        height:400px !important;
+        height:370px !important;
         top: -97em !important;
     }
     .fivesection {
-        height:400px !important;
+        height:370px !important;
         top: -128.5em !important
     }
     .btnnav2 {
@@ -204,6 +204,10 @@ header {
 textarea {
     outline:none;
     margin-bottom:1em;
+}
+
+::placeholder {
+    color:red;
 }
 .progress {
     margin-bottom: 2em;
