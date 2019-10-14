@@ -3,7 +3,8 @@
 @media screen and (max-width: 480px)
 {
     html {
-        overflow:hidden !important;
+        overflow-x:hidden !important;
+        overflow-y:hidden !important;
     }
     .logoheader {
         max-width: 100%;
