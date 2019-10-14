@@ -1,6 +1,6 @@
 /* Responsive */
 
-@media screen and (max-width: 640px)
+@media screen and (max-width: 720px)
 {
     .logoheader {
         max-width: 100%;
@@ -47,7 +47,7 @@
     }
     .fivesection {
         height:400px !important;
-        top: 11em !important;
+        top: -128.5em !important
     }
     .btnnav2 {
         margin-left: 20% !important;
@@ -74,7 +74,7 @@
         top: -97em !important;
     }
     .infosection5 {
-        top: 11em !important;
+        top: -128.5em !important
     }
 }
 
