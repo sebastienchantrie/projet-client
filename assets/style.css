@@ -10,22 +10,71 @@
         font-size:12px;
     }
     .sphere2 {
-        font-size:10px;
+        font-size:12px;
     }
     .sphere3 {
-        font-size:10px;
+        font-size:12px;
     }
     .sphere4 {
-        font-size:10px;
+        font-size:12px;
     }
     .sphere5 {
-        font-size:10px;
+        font-size:12px;
     }
     .othermargin {
         margin-left:2.5em !important;
     }
+    .othermargin2 {
+        margin-left:10.5em !important;
+    }
     .btnnav {
         margin-left:70% !important;
+    }
+    .firstsection {
+        height:400px !important;
+    }
+    .secondsection {
+        height:400px !important;
+        top: -32em !important;
+    }
+    .threesection {
+        height:400px !important;
+        top: -64.4em !important
+    }
+    .forsection {
+        height:400px !important;
+        top: -97em !important;
+    }
+    .fivesection {
+        height:400px !important;
+        top: 11em !important;
+    }
+    .btnnav2 {
+        margin-left: 20% !important;
+    }
+    .btnnav3 {
+        margin-left: 20% !important;
+    }
+    .btnnav4 {
+        margin-left: 20% !important;
+    }
+    .btnnav5 {
+        margin-left: 20% !important;
+    }
+    .prec {
+        margin-left: 0 !important;
+    }
+    .infosection2 {
+        top: -32em !important;
+    }
+    .infosection3 {
+        top: -64.4em!important;
+    }
+    .infosection4 {
+        top: -97em !important;
+    }
+    .infosection5 {
+        top: 11em !important;
     }
 }
 
