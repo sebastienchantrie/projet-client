@@ -2,6 +2,9 @@
 
 @media screen and (max-width: 480px)
 {
+    html {
+        overflow:hidden !important;
+    }
     .logoheader {
         max-width: 100%;
         margin-top:-10em !important;
@@ -31,22 +34,22 @@
         margin-left:70% !important;
     }
     .firstsection {
-        height:340px !important;
+        height:300px !important;
     }
     .secondsection {
-        height:340px !important;
+        height:300px !important;
         top: -32em !important;
     }
     .threesection {
-        height:340px !important;
+        height:300px !important;
         top: -64.4em !important
     }
     .forsection {
-        height:340px !important;
+        height:300px !important;
         top: -97em !important;
     }
     .fivesection {
-        height:340px !important;
+        height:300px !important;
         top: -128.5em !important
     }
     .btnnav2 {
@@ -204,10 +207,6 @@ header {
 textarea {
     outline:none;
     margin-bottom:1em;
-}
-
-::placeholder {
-    color:red;
 }
 .progress {
     margin-bottom: 2em;
