@@ -1,4 +1,33 @@
-/*infosection LEFT FOU LA MERDE */
+/* Responsive */
+
+@media screen and (max-width: 640px)
+{
+    .logoheader {
+        max-width: 100%;
+        margin-top:-10em !important;
+    }
+    .sphere1 {
+        font-size:12px;
+    }
+    .sphere2 {
+        font-size:10px;
+    }
+    .sphere3 {
+        font-size:10px;
+    }
+    .sphere4 {
+        font-size:10px;
+    }
+    .sphere5 {
+        font-size:10px;
+    }
+    .othermargin {
+        margin-left:2.5em !important;
+    }
+    .btnnav {
+        margin-left:70% !important;
+    }
+}
 
 
 .animationleave {
